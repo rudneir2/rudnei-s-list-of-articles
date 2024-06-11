@@ -1,4 +1,4 @@
-# rudnei's list of articles
+# rudnei's list of articles (updated 6/11th/2024)
 list of articles authored and co-authored by Rudnei
 
 ## Architecture Center (author)
