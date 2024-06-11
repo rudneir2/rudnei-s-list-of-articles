@@ -4,24 +4,31 @@ list of articles authored and co-authored by Rudnei
 ## Architecture Center (author)
 
 **Use Azure monitoring to integrate security components**
+
 https://learn.microsoft.com/en-us/azure/architecture/guide/security/azure-monitor-integrate-security-components
 
 **Map threats to your IT environment**
+
 https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/map-threats-it-environment
 
 **Build the first layer of defense with Azure Security services**
+
 https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense
 
 **Build the second layer of defense with Microsoft Defender XDR Security services**
+
 https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense
 
 **Integrate Azure and Microsoft Defender XDR security services**
+
 https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure
 
 **Microsoft Sentinel automated responses**
+
 https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-sentinel-automated-response
 
 **Azure Files accessed on-premises and secured by AD DS**
+
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/azure-files-on-premises-authentication
 
 
